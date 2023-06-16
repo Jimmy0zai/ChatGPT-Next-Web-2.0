@@ -54,7 +54,7 @@ if (mode !== "export") {
       },
       {
         source: "/sharegpt",
-        destination: "https://sharegpt.com/api/conversations",
+        destination: "https://mpw6h5pp5n.feishu.cn/docx/IKbBdFIXAoaWH4xsqoAcU89Gnmk",
       },
     ];
 
