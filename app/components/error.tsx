@@ -47,7 +47,7 @@ export class ErrorBoundary extends React.Component<any, IErrorBoundaryState> {
           </pre>
 
           <div style={{ display: "flex", justifyContent: "space-between" }}>
-            <a href={ISSUE_URL} className="report">
+            <a href={"https://qsybx3gqgn.feishu.cn/docx/EOQLdri2CotTOBxowpfcuB0Xn5c?hideHeader=1"} className="report">
               <IconButton
                 text="Report This Error"
                 icon={<GithubIcon />}
